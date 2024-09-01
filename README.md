@@ -1,9 +1,8 @@
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
 <h1 align="center">Hi 👋 I'm Israt Jahan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisratjahan20002&label=Profile%20views&color=0e75b6&style=flat" alt="nisratjahan20002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisratjahan20002" alt="nisratjahan20002" /></a> </p>
 
 - 🔭 I’m currently working on [Dental Appointment System](https://github.com/ashifur-rahman23/medicalProConnect-UI)
 
