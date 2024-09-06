@@ -39,7 +39,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisratjahan2
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisratjahan20002&show_icons=true&theme=radical" alt="nisratjahan20002" /></p>
 
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nIsratJahan20002&theme=radical&card_width=494" alt="GitHub Streak" /></a>|</p>
+<p><img src="https://streak-stats.demolab.com?user=nIsratJahan20002&theme=radical&card_width=494" alt="GitHub Streak" /></a>|</p>
 
 
 
