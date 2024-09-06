@@ -33,7 +33,7 @@
 
 # 📊 GitHub Stats:
 <p><img align="left" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisratjahan20002&show_icons=true&theme=radical langs_count=8"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisratjahan20002&show_icons=true langs_count=8"
 alt="nisratjahan20002"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisratjahan20002&show_icons=true&theme=radical" alt="nisratjahan20002" /></p>
@@ -43,7 +43,7 @@ alt="nisratjahan20002"/></p>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nIsratJahan20002&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nIsratJahan20002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
