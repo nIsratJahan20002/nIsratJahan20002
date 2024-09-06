@@ -33,7 +33,7 @@
 
 # 📊 GitHub Stats:
 <p><img align="left" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisratjahan20002&hide_progress=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisratjahan20002&hide_progress=true&theme=radical"
 alt="nisratjahan20002"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisratjahan20002&show_icons=true&theme=radical" alt="nisratjahan20002" /></p>
