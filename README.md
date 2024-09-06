@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
+9[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
 <h1 align="center">Hi 👋 I'm Israt Jahan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
@@ -56,7 +56,7 @@ alt="nisratjahan20002"/></p>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](<a href="https://visitcount.itsvg.in">
+[!(<a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=nIsratJahan20002&label=Profile%20Views&color=11&icon=8&pretty=true" />
 </a>)](https://visitcount.itsvg.in)
 
