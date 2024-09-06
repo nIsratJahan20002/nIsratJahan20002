@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm Israt Jahan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
  
-<p align="left"> <img src=""https://visitcount.itsvg.in/api?id=nIsratJahan20002&label=Profile%20Views&color=0&icon=1&pretty=false"/> </p>
+[![](https://visitcount.itsvg.in/api?id=nIsratJahan20002&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 - 🔭 I’m currently working on [Dental Appointment System](https://github.com/ashifur-rahman23/medicalProConnect-UI)
