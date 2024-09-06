@@ -56,6 +56,8 @@ alt="nisratjahan20002"/></p>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nisratjahan20002&icon=3&color=0)](https://visitcount.itsvg.in)
+[![](<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nIsratJahan20002&label=Profile%20Views&color=11&icon=8&pretty=true" />
+</a>)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
