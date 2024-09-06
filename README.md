@@ -48,6 +48,13 @@ alt="nisratjahan20002"/></p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+<a href="https://github.com/nIsratJahan20002/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nIsratJahan20002" />
+</a>
+<a href="https://github.com/nIsratJahan20002/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nIsratJahan20002&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
