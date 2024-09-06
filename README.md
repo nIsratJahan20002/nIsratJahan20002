@@ -38,6 +38,8 @@ alt="nisratjahan20002"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisratjahan20002&theam=radical=true&locale=en" alt="nisratjahan20002" /></p>
 
+(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisratjahan20002&" alt="nisratjahan20002" /></p>
 
 
