@@ -33,8 +33,8 @@
 
 # 📊 GitHub Stats:
 <p><img align="left" 
-![Your GitHub stats]src="https://github-readme-stats.vercel.app/api?username=nisratjahan20002&show_icons=true&hide_border=true"
- alt="nisratjahan20002" /></p>
+src="https://github-readme-stats.vercel.app/api/top-langs?username=nisratjahan20002&show_icons=true&locale=en&layout=compact"
+alt="nisratjahan20002"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisratjahan20002&show_icons=true&locale=en" alt="nisratjahan20002" /></p>
 
