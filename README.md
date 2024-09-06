@@ -37,3 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisratjahan20002&show_icons=true&locale=en" alt="nisratjahan20002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisratjahan20002&" alt="nisratjahan20002" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hemantkumar980&theme=dark&no-frame=false&no-bg=false&margin-w=4)
