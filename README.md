@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
+i[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
 <h1 align="center">Hi 👋 I'm Israt Jahan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
@@ -40,7 +40,6 @@ alt="nisratjahan20002"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisratjahan20002&" alt="nisratjahan20002" /></p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nisratjahan20002&show_icons=true&hide_border=true))
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nIsratJahan20002&theme=dark&no-frame=false&no-bg=false&margin-w=4)
