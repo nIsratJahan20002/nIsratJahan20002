@@ -48,7 +48,7 @@ alt="nisratjahan20002"/></p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nIsratJahan20002)](https://github.com/nIsratJahan20002/github-readme-stats)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
