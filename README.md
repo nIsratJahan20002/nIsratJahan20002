@@ -36,9 +36,6 @@
 <p><img align="left" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisratjahan20002&layout=donut&theme=radical"](https://github.com/anuraghazra/github-readme-stats)</p>
 
-<p><img align="left" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisratjahan20002&hide_progress=true&theme=radical"
-alt="nisratjahan20002"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisratjahan20002&show_icons=true&theme=radical" alt="nisratjahan20002" /></p>
 
@@ -52,12 +49,5 @@ alt="nisratjahan20002"/></p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[!(<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=nIsratJahan20002&label=Profile%20Views&color=11&icon=8&pretty=true" />
-</a>)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
