@@ -34,11 +34,11 @@
 # 📊 GitHub Stats:
 
 <p><img align="left" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisratjahan20002&layout=donut&theme=radical"](https://github.com/anuraghazra/github-readme-stats)</p>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisratjahan20002&layout=donut&theme=radical&card_width=492"](https://github.com/anuraghazra/github-readme-stats)</p>
+    
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisratjahan20002&show_icons=true&theme=radical&card_width=492" alt="nisratjahan20002" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisratjahan20002&show_icons=true&theme=radical" alt="nisratjahan20002" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nIsratJahan20002&theme=radical&card_width=494" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nIsratJahan20002&theme=radical&card_width=492" alt="GitHub Streak" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nIsratJahan20002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
